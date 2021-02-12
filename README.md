@@ -47,4 +47,4 @@
 
 9. ในไฟล์ info.plist จะมีข้อมุลเกี่ยวกับ application นั้นๆอยู่ เช่น URI Schema , packetname การอนุญาติการเข้าถึงต่างๆ รวมทั้งแอปที่สามารถถูกเรียกจากแอปที่เลือกได้
 
-![process 9](https://github.com/chokchai9900/InfoPlistWiki/blob/main/9.png)
+![process 9](https://github.com/chokchai9900/InfoPlistWiki/blob/main/9.PNG)
