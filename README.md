@@ -31,15 +31,15 @@
 
 5. จากนั้น ไปที่ folder ที่จัดเก็บ application ที่เลือกข้างต้น และทำการเปลี่ยนนามสกลุของไฟล์จาก .IPA > .zip
 
-![process 5](https://github.com/chokchai9900/InfoPlistWiki/blob/main/5.PNG)
+![process 5](https://github.com/chokchai9900/InfoPlistWiki/blob/main/5.png)
 
 6. แล้วคลิกขวา และทำการแตกไฟล์ที่ได้
 
-![process 6](https://github.com/chokchai9900/InfoPlistWiki/blob/main/6.PNG)
+![process 6](https://github.com/chokchai9900/InfoPlistWiki/blob/main/6.png)
 
 7. จากนั้นจะได้ folder ที่มีข้อมูลสำหรับ application ที่เลือกข้างต้น ให้ไปที่ ชื่อapplication > Payload > ชื่อapplication ใน folder นั้นจะมีไฟล์ info.plist อยู่
 
-![process 7](https://github.com/chokchai9900/InfoPlistWiki/blob/main/7.PNG)
+![process 7](https://github.com/chokchai9900/InfoPlistWiki/blob/main/7.png)
 
 8. คลิกขวาที่ไฟล์ และเลือก open with visual studio code เพื่อทำการเปิดไฟล์นั้นๆ
 
@@ -47,4 +47,4 @@
 
 9. ในไฟล์ info.plist จะมีข้อมุลเกี่ยวกับ application นั้นๆอยู่ เช่น URI Schema , packetname การอนุญาติการเข้าถึงต่างๆ รวมทั้งแอปที่สามารถถูกเรียกจากแอปที่เลือกได้
 
-![process 9](https://github.com/chokchai9900/InfoPlistWiki/blob/main/9.PNG)
+![process 9](https://github.com/chokchai9900/InfoPlistWiki/blob/main/9.png)
